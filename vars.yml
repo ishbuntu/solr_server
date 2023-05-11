@@ -1,0 +1,4 @@
+---
+download_dir: /tmp
+solr_dir: /opt/solr
+solr_version: 6.5.1
